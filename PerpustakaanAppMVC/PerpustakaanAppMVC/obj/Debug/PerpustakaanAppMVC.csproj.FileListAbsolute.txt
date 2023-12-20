@@ -1,0 +1,9 @@
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\4872\praktikum_10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
